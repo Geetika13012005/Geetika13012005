@@ -63,7 +63,6 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
 </p>
 
----
 
 ### 📊 GitHub Stats
 

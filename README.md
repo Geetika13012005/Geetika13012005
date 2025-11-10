@@ -36,15 +36,14 @@
   <a href="https://medium.com/geetikadidwania" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
-### 🧠 Coding Profiles
-
-<p align="left">
-  <a href=" https://leetcode.com/u/Cherry_13/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+ <a href="https://leetcode.com/u/Cherry_13/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/Cherry_13" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Codeforces_logo.svg" alt="Codeforces" height="30" width="40" />
   </a>
+</p>
+
 </p>
 
 </p>
